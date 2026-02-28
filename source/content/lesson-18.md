@@ -3,7 +3,7 @@ title: "Lesson 18"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=169"
+original_url: "https://adam-costa.com/?page_id=169"
 ---
 
 In today’s lesson, you’ll learn why attention residue is a nasty byproduct of procrastination and the two things you need to wipe your mind clean of attention residue.

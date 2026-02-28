@@ -3,10 +3,10 @@ title: "Chapter 14: Asset allocation—make more money with less risk"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/"
+original_url: "https://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/"
 ---
 
-![An example of asset allocation](http://adam-costa.com/wp-content/uploads/2019/02/meta-chart-700x467.png)An example of asset allocation. As much as I loathe pie charts, here you go. 
+![An example of asset allocation](https://adam-costa.com/wp-content/uploads/2019/02/meta-chart-700x467.png)An example of asset allocation. As much as I loathe pie charts, here you go. 
 
 ## Includes beginner, moderate, and advanced strategies
 
@@ -75,7 +75,7 @@ Buy different assets—lots of 'em—and watch them grow. Sure, some will lose v
 
 This approach is called *diversification*. When you invest in lots of different* *asset classes—such as stocks, bonds, commodities, and real estate—you diversify your investments, spread out your risk, and smooth the ride to financial freedom.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-1.png)As one asset goes up, the other goes down. This reduces overall volatility.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-1.png)As one asset goes up, the other goes down. This reduces overall volatility.
 
 It's a fact: diversification boosts returns and reduces risk.
 
@@ -119,7 +119,7 @@ Before we look at assets, however, we need to identify the risks.
 
 *Inflation risk* is like heart disease: it's a silent killer. Your currency grows less valuable over time, and fails to keep up with the growth of your assets.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-3.png)Inflation erodes your wealth over time.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-3.png)Inflation erodes your wealth over time.
 
 The cruel irony of inflation risk is that it's most likely to happen to the risk-averse; in other words, by trying to avoid risky investments, people overcompensate and fail to achieve the needed returns to fund their expenses.
 
@@ -135,7 +135,7 @@ Buy stocks to provide long-term growth. If you follow the advice in this course,
 
 *Currency risk* is when you invest in another country and their currency fluctuations affect your return.  Even if your investment grows in value, currency risk can erode your profits—and turn a winner into a loser.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-7-700x254.png)Currency risk can turn a winning investment into a loser. (Note: we see a 12% loss here since the 20% drop happened after the 10% gain. For example, $100 invested would grow to $110, then drop to $88. 110-(110*.20) = $88, a 12% drop from 100.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-7-700x254.png)Currency risk can turn a winning investment into a loser. (Note: we see a 12% loss here since the 20% drop happened after the 10% gain. For example, $100 invested would grow to $110, then drop to $88. 110-(110*.20) = $88, a 12% drop from 100.
 
 Note that currency risk applies whether you invest internationally or not: if you live in the US, and the US dollar plummets, your buying power internationally declines, too.
 
@@ -159,7 +159,7 @@ Invest in lots of different countries and regions around the world. Avoid overwe
 
 Also known as *default risk*, *credit risk* is the risk of you lending money to someone—whether a person, a company, or country—and never getting your money back. 
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-4.png)Credit risk has serious downside. 
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-4.png)Credit risk has serious downside. 
 
 Credit risk is especially concerning for bondholders. If you hold bonds, you are, in effect, lending money to companies or countries, who pay you interest in return. If that company or country defaults, you don't get paid. 
 
@@ -203,7 +203,7 @@ Another option is to buy a *cap* (or *call option*) on a given interest rate. If
 
 *Liquidity risk* is when you cannot buy—or more commonly, sell—investments quickly and for a fair price. Stocks are easy to sell; houses and businesses aren't, and therefore contain liquidity risk.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-5.png)Liquidity risk doesn't necessarily mean you lose money—but you lose the opportunity to sell the asset quickly.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-5.png)Liquidity risk doesn't necessarily mean you lose money—but you lose the opportunity to sell the asset quickly.
 
 **How to reduce it:** 
 
@@ -248,13 +248,13 @@ Let's look at each:
 - *Growth stocks* are companies that are expected to grow faster than average. Because of this focus on growth, these companies reinvest their profits to fuel further growth—such as hiring new people, purchasing new equipment, and acquiring other companies—which means you shouldn't expect dividends. 
 - *Value stocks*, on the other hand, aren't expected to grow as much, or as fast, as growth stocks. Because of this, they tend to trade for lower prices than growth stocks. Another benefit is that value stocks tend to pay higher dividends—which means you can continue to get paid just for owning the stock, even if the price doesn't budge.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-9-700x478.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-9-700x478.png)
 
 As you can see, there are lots of different ways to slice up stocks. You can choose just one (like "small-cap") or mix-and-match (like "small-cap, international value"). 
 
 Here are two examples:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-10-700x630.png)In these two examples, you select funds by location, investment style (growth or value) and market-cap size.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-10-700x630.png)In these two examples, you select funds by location, investment style (growth or value) and market-cap size.
 
 So which stocks are best? 
 
@@ -354,7 +354,7 @@ Who LifeStrategy funds are for:
 
 Here's what a moderate allocation looks like:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/meta-chart-700x467.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/meta-chart-700x467.png)
 
 **What to invest in:**
 
@@ -382,7 +382,7 @@ As we've seen earlier, there are many other asset classes available. And each as
 
 But for each, there are smallcap, midcap, and largecap, growth and value. 
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-700x690.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-700x690.png)
 
 An example of an advanced portfolio: 
 
@@ -425,9 +425,9 @@ If you are, invest your most tax-efficient assets in your taxable account, and y
 
 The following image shows how this is done:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/Tax-Efficiency.png)Source: [Bogleheads.org](https://www.bogleheads.org/forum/viewtopic.php?t=256705)
+![](https://adam-costa.com/wp-content/uploads/2019/02/Tax-Efficiency.png)Source: [Bogleheads.org](https://www.bogleheads.org/forum/viewtopic.php?t=256705)
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/asset-allocation-taxes-and-accounts-700x481.jpg)
+![](https://adam-costa.com/wp-content/uploads/2019/02/asset-allocation-taxes-and-accounts-700x481.jpg)
 
 The image above shows the tax efficiency of asset classes. But it doesn't show which funds you should buy for each asset class.
 
@@ -464,7 +464,7 @@ After reviewing the contribution limits, you determine you can invest $20,000 a 
 
 That's pretty sweet. 
 
-I recommend you read the [article on investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/) to learn more about this process.
+I recommend you read the [article on investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/) to learn more about this process.
 
 ## Rebalance your allocation—a few ways to do it right
 

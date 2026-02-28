@@ -3,10 +3,10 @@ title: "Chapter 16: Retirement income—which accounts should you withdraw from 
 date: "2019-02-18"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/automate-scale-your-investments/withdraw-your-money/"
+original_url: "https://adam-costa.com/financial-freedom/automate-scale-your-investments/withdraw-your-money/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-10.png)This represents the order you should withdraw your money to reduce your tax-burden. Keep reading for details on each step.
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-10.png)This represents the order you should withdraw your money to reduce your tax-burden. Keep reading for details on each step.
 
 ## A simple way to live off your investments, optimized for taxes
 
@@ -38,7 +38,7 @@ Each bucket may include multiple accounts. For example, you may have collected s
 
 Here's a quick visual:
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-1-700x134.png)The three buckets. Each bucket may include multiple accounts.
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-1-700x134.png)The three buckets. Each bucket may include multiple accounts.
 
 Now that we've covered the basics, let's talk about the fun stuff: spending your money.
 
@@ -46,7 +46,7 @@ Now that we've covered the basics, let's talk about the fun stuff: spending your
 
 Let's say that you make money from an enjoyable hobby or part-time job. Spend that money first. 
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-7.png)Spend any money earned from fun projects first!
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-7.png)Spend any money earned from fun projects first!
 
 ## Second, spend money from your taxable account(s)
 
@@ -64,7 +64,7 @@ For example, you can access:
 
 Next, sell shares of your investments. Depending on market performance—and perhaps your overall strategy, see the "Other strategies" section further down the page—you'll sell your shares for either a profit or loss. Either way, pull it out.
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-5.png)Withdraw dividends from your taxable account first, then capital losses and gains.
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-5.png)Withdraw dividends from your taxable account first, then capital losses and gains.
 
 ## Third, spend money from your tax-deferred account(s)
 
@@ -73,7 +73,7 @@ There are a few considerations:
 - You *will* pay a penalty fee for an early withdrawal. For a Traditional IRA or 401(k) there is a 10% penalty fee if you withdraw before 59.5 years old. 
 - You *may* also pay income tax on top of the 10% penalty. Or not. (More on this in the [conversion section](#convert-tax-deferred-income) below.)
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-9.png)Next, pull money from tax-deferred accounts. Beware of early withdrawal penalties and income tax!
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-9.png)Next, pull money from tax-deferred accounts. Beware of early withdrawal penalties and income tax!
 
 ## Fourth, spend money from your tax-free account(s)
 
@@ -84,7 +84,7 @@ The most common tax-free accounts are a Roth IRA and Health Savings Account (HSA
 - If you *do* have medical expenses that you've paid for out-of-pocket (in the current or any previous year), then pull money from your HSA first.
 - If you *don't* have medical expenses, pull the money from your Roth account first.
 
-![](http://adam-costa.com/wp-content/uploads/2019/03/image-10.png)If you have medical expenses, pull money from your Health Savings Account (HSA). If not, pull it from your Roth.
+![](https://adam-costa.com/wp-content/uploads/2019/03/image-10.png)If you have medical expenses, pull money from your Health Savings Account (HSA). If not, pull it from your Roth.
 
 The above strategy is pretty straightforward. To summarize:
 
@@ -99,7 +99,7 @@ That's it in a nutshell. However, your strategy may change based on your specifi
 
 Meet Rasputin.
 
-Rasputin has $1 million invested. Based on the [4% rule](http://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/), he can safely pull $40,000 a year.
+Rasputin has $1 million invested. Based on the [4% rule](https://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/), he can safely pull $40,000 a year.
 
 Here is how Rasputin's money is spread about:
 
@@ -249,6 +249,6 @@ Seriously. It's that easy.
 
 But if you really want to optimize things—and juice your returns—it's better to withdraw smaller amounts more frequently than one lump sum. Withdrawing money monthly gives the rest of your investment more time in the market—which, more often than not, continues to grow. 
 
-You can set up your investments such that they automatically deposit funds into your checking account every month. That's the best of both worlds: you leave your money in the market, and you don't lift a finger to withdraw the money. All this happens on autopilot. (Slight aside: if you haven't already, read this [guide to automating your investments](http://adam-costa.com/financial-freedom/automate-scale-your-investments/build-wealth-automatically/).)
+You can set up your investments such that they automatically deposit funds into your checking account every month. That's the best of both worlds: you leave your money in the market, and you don't lift a finger to withdraw the money. All this happens on autopilot. (Slight aside: if you haven't already, read this [guide to automating your investments](https://adam-costa.com/financial-freedom/automate-scale-your-investments/build-wealth-automatically/).)
 
-Recommended reading: [asset allocation](http://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/), [investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).
+Recommended reading: [asset allocation](https://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/), [investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).

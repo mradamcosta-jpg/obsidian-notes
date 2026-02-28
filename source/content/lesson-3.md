@@ -3,7 +3,7 @@ title: "Lesson 3"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=136"
+original_url: "https://adam-costa.com/?page_id=136"
 ---
 
 In this video lesson, we’re going to get into the nitty gritty of finding your purpose. We’ll drop some mad scientific research that backs the importance of finding your purpose, learn how define your purpose kick-starts a virtuous cycle, and list the 10 questions you need to answer to find your purpose.

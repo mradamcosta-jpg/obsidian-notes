@@ -3,10 +3,10 @@ title: "Chapter 9: Work remotely"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/"
+original_url: "https://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/"
 ---
 
-![Since I chose to work remotely in 2009, I've lived in 32 countries (and counting).](http://adam-costa.com/wp-content/uploads/2020/02/image-11-700x360.png)By working remotely, I've been able to live in 32 countries (and counting).
+![Since I chose to work remotely in 2009, I've lived in 32 countries (and counting).](https://adam-costa.com/wp-content/uploads/2020/02/image-11-700x360.png)By working remotely, I've been able to live in 32 countries (and counting).
 
 ## Working remotely cuts your expenses, increases your income, and lets you travel the world
 
@@ -20,11 +20,11 @@ Plus, **it's the only strategy that can both reduce your expenses *and* increase
 
 If you are a self-starter, a go-getter, than working from home is great. 
 
-If, on the other hand, you struggle with time management, working from home will feel like one endless distraction after another. (Related: [How to block distractions](http://adam-costa.com/productivity-course/chapter-6-block-distractions/).)
+If, on the other hand, you struggle with time management, working from home will feel like one endless distraction after another. (Related: [How to block distractions](https://adam-costa.com/productivity-course/chapter-6-block-distractions/).)
 
 In either case, be honest with yourself. 
 
-There are several skills that are useful in an office, but triply so when you work remotely. In no particular order, they are: the ability to focus, write clearly, and [follow through](http://adam-costa.com/productivity-course/chapter-7-follow-through/). 
+There are several skills that are useful in an office, but triply so when you work remotely. In no particular order, they are: the ability to focus, write clearly, and [follow through](https://adam-costa.com/productivity-course/chapter-7-follow-through/). 
 
 All of the above skills are crucial and, in a way, they all contribute to most important skill of all: the ability to "get shit done." Not everyone can. In fact, I would argue that most people don't get much done—either in an office or at home. Getting shit done requires a combination of prioritizing what needs to be done, focusing on what matters most, and following through. 
 
@@ -42,7 +42,7 @@ Look, everyone—*everyone*—slacks off at a job at some point. It's inevitable
 
 If you're like most people, your three biggest expenses are housing, taxes, and transportation.
 
-![](http://adam-costa.com/wp-content/uploads/2019/10/image-700x607.png)
+![](https://adam-costa.com/wp-content/uploads/2019/10/image-700x607.png)
 
 Let's look at how working remotely saves you big-time in each of these three categories:
 
@@ -112,7 +112,7 @@ Admittedly, employers *should* realize this. Some don't. So if you'd like to tra
 
 ## How to convince your boss to work remotely
 
-Similar to [asking your boss for a raise](http://adam-costa.com/financial-freedom/how-to-increase-your-income/ask-for-a-raise/#Raises_How_and_when_to_ask), you'll need to (i) do your homework, (ii) plan your ask, and (iii) be ready to negotiate.
+Similar to [asking your boss for a raise](https://adam-costa.com/financial-freedom/how-to-increase-your-income/ask-for-a-raise/#Raises_How_and_when_to_ask), you'll need to (i) do your homework, (ii) plan your ask, and (iii) be ready to negotiate.
 
 ### Stun your boss with these 3 facts about remote work
 
@@ -122,7 +122,7 @@ Similar to [asking your boss for a raise](http://adam-costa.com/financial-freedo
 
 ### Use this 3-step formula to ask your boss to work remotely
 
-For most difficult discussions, I use a simple 3-part approach. I call it “Past/Present/Future.” (We originally covered this approach [here](http://adam-costa.com/financial-freedom/how-to-increase-your-income/ask-for-a-raise/#Use_this_simple_3-step_strategy_to_win_your_raise_and_breeze_through_other_tough_conversations).)  In any tough talk you simply explain (i) what happened (Past), (ii) what’s happening (Present), and (iii) what will happen next (Future).
+For most difficult discussions, I use a simple 3-part approach. I call it “Past/Present/Future.” (We originally covered this approach [here](https://adam-costa.com/financial-freedom/how-to-increase-your-income/ask-for-a-raise/#Use_this_simple_3-step_strategy_to_win_your_raise_and_breeze_through_other_tough_conversations).)  In any tough talk you simply explain (i) what happened (Past), (ii) what’s happening (Present), and (iii) what will happen next (Future).
 
 #### Step 1: Past
 
@@ -168,7 +168,7 @@ The following fields are common:
 -  Sales
 -  Writing
 -  Customer Success
--  [Consulting](http://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/)
+-  [Consulting](https://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/)
 -  Finance
 -  Administration
 -  Human Resources

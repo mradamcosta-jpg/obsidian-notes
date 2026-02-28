@@ -3,7 +3,7 @@ title: "Nutrition holding pen"
 date: "2022-11-17"
 author: "adamcosta"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=5268"
+original_url: "https://adam-costa.com/?page_id=5268"
 ---
 
 ATP and acetyl-CoA

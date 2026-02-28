@@ -3,7 +3,7 @@ title: "Lesson 29"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=194"
+original_url: "https://adam-costa.com/?page_id=194"
 ---
 
 In today’s lesson, you’ll learn six additional methods to help improve your follow through.

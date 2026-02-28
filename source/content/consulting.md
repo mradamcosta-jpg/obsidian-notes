@@ -3,10 +3,10 @@ title: "Chapter 11: Consulting (or coaching)"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/"
+original_url: "https://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/"
 ---
 
-![Client + consultant = results. ](http://adam-costa.com/wp-content/uploads/2020/02/image-24-700x186.png)Why do people hire consultants? They want results.
+![Client + consultant = results. ](https://adam-costa.com/wp-content/uploads/2020/02/image-24-700x186.png)Why do people hire consultants? They want results.
 
 ## A lucrative way to share your expertise—and help others get amazing results
 
@@ -24,7 +24,7 @@ The rule of consulting: get your client the result they want. Do that, and every
 
 ## The benefits of consulting
 
-The benefits of consulting are huge, especially for someone who strives for financial freedom. As a consultant you can [work remotely](http://adam-costa.com/financial-freedom-page/how-to-increase-your-income/work-remotely/), and charge a higher rate than you could in a salary position.
+The benefits of consulting are huge, especially for someone who strives for financial freedom. As a consultant you can [work remotely](https://adam-costa.com/financial-freedom-page/how-to-increase-your-income/work-remotely/), and charge a higher rate than you could in a salary position.
 
 I love four things about consulting: freedom, autonomy, higher pay and a results-based environment.
 

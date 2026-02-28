@@ -3,7 +3,7 @@ title: "Lesson 8"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=140"
+original_url: "https://adam-costa.com/?page_id=140"
 ---
 
 In today’s lesson, the fun really begins because you’re going to start adding your hopes, dreams, and desires to your own personal “Board Game of Life.” Get ready!

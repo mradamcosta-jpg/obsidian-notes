@@ -3,7 +3,7 @@ title: "Lesson 12"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=160"
+original_url: "https://adam-costa.com/?page_id=160"
 ---
 
 In today’s lesson, you're going to move your top priority goals from your Board Game of Life into your kanban, set SMART goals, and organize your goals into the "Backlog", "To-Do", and "Doing" columns.

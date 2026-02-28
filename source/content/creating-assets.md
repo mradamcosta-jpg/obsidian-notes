@@ -3,10 +3,10 @@ title: "Chapter 10: Create assets"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/"
+original_url: "https://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2020/02/image-23-700x265.png)In addition to buying assets, create your own to capture the most upside.
+![](https://adam-costa.com/wp-content/uploads/2020/02/image-23-700x265.png)In addition to buying assets, create your own to capture the most upside.
 
 ## Have fun—and make money along the way
 
@@ -28,7 +28,7 @@ But there's a better way. Keep reading, or click a link below to skip ahead.
 
 *Buying* assets—such as stocks, bonds, real estate and businesses—requires upfront capital. And that takes time.
 
-As we learned in [this article](http://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/), you can pull roughly 4% of your investment portfolio indefinitely. 
+As we learned in [this article](https://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/), you can pull roughly 4% of your investment portfolio indefinitely. 
 
 So, in order to earn $1,000 a month, you'll need $300,000 invested. 
 
@@ -136,7 +136,7 @@ I learned:
 
 - Keyword research
 
-... and a whole bunch of other stuff. As I continued to build websites, my skills grew sharper. I then used those skill in freelance work, and ultimately [consulting](http://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/). 
+... and a whole bunch of other stuff. As I continued to build websites, my skills grew sharper. I then used those skill in freelance work, and ultimately [consulting](https://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/). 
 
 ## A brief aside: what frustrates me most about the education system
 

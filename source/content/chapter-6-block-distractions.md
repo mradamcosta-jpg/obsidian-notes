@@ -3,10 +3,10 @@ title: "Chapter 6: Block distractions"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/chapter-6-block-distractions/"
+original_url: "https://adam-costa.com/productivity-course/chapter-6-block-distractions/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2020/02/image-7-700x435.png)(Source: Photo by [Oscar Keys](https://unsplash.com/@oscartothekeys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
+![](https://adam-costa.com/wp-content/uploads/2020/02/image-7-700x435.png)(Source: Photo by [Oscar Keys](https://unsplash.com/@oscartothekeys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
 
 ## The crippling effects of distraction—and how to prevent them
 

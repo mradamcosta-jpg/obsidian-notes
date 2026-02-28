@@ -3,7 +3,7 @@ title: "Chapter 3: The different levels of financial freedom"
 date: "2018-11-03"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/"
+original_url: "https://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/"
 ---
 
 ## Financial freedom is a spectrum—with exciting opportunities along the way
@@ -16,7 +16,7 @@ As your wealth increases, you proceed to the next level. And with each new level
 
 To illustrate this point, look at the chart below:
 
-![The different levels of financial freedom](http://adam-costa.com/wp-content/uploads/2020/02/image-16-700x208.png)Financially dependent people (on the left) rely on money from work. Financially independent people (on the right) rely on assets. As you save and invest, you move farther to the right.
+![The different levels of financial freedom](https://adam-costa.com/wp-content/uploads/2020/02/image-16-700x208.png)Financially dependent people (on the left) rely on money from work. Financially independent people (on the right) rely on assets. As you save and invest, you move farther to the right.
 
 As you can see, you make money from:
 
@@ -38,7 +38,7 @@ You can:
 
 - **Find a different, lower-paying job you love. **(While your new job covers expenses, your investments will continue to grow, and likely double in ~10 years—enough for you to be truly financially independent.) 
 
-- **Work six months a year. **(This works well with seasonal work, contract work, or [consulting](http://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/).) 
+- **Work six months a year. **(This works well with seasonal work, contract work, or [consulting](https://adam-costa.com/financial-freedom/how-to-increase-your-income/consulting/).) 
 
 The key point is that you've plenty of options—even if you're only half way.
 
@@ -48,7 +48,7 @@ Let's find out.
 
 ## A simple way to measure each level of financial freedom
 
-As we learned in [this chapter](http://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/), you can live off 4% of your investments indefinitely. (There are a few caveats to this; read the linked article for more.)
+As we learned in [this chapter](https://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/), you can live off 4% of your investments indefinitely. (There are a few caveats to this; read the linked article for more.)
 
 So, for every $100,000 invested, you can safely withdraw $4,000 a year for the rest of your life. 
 
@@ -83,11 +83,11 @@ Now, obviously, we want to get to Level 5, since that will cover all your expens
 
 - Income needed from work: $5,000
 
-Well, you gotta start somewhere. At this level you need to earn $5,000 every month to cover your expenses. (For simplicity, let's ignore [**taxes**](http://adam-costa.com/financial-freedom/reduce-expenses/taxes/).)
+Well, you gotta start somewhere. At this level you need to earn $5,000 every month to cover your expenses. (For simplicity, let's ignore [**taxes**](https://adam-costa.com/financial-freedom/reduce-expenses/taxes/).)
 
 So to get by, you need a job that pays $60,000 a year. To get to the next level, you need to save—and invest—more money.
 
-**Important: if you have any debt besides your mortgage, pay it off first. **There is one exception: if you can invest money in tax-advantaged retirement accounts such as a matching 401(k) or IRA (Individual Retirement Account) then max out those first each year, then pay down your debt. For more information, [read the section on investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).
+**Important: if you have any debt besides your mortgage, pay it off first. **There is one exception: if you can invest money in tax-advantaged retirement accounts such as a matching 401(k) or IRA (Individual Retirement Account) then max out those first each year, then pay down your debt. For more information, [read the section on investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).
 
 ## Level 1
 

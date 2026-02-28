@@ -3,18 +3,18 @@ title: "Chapter 5: Live rent-free—or, how to save $100k by traveling the world
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/reduce-expenses/housing/"
+original_url: "https://adam-costa.com/financial-freedom/reduce-expenses/housing/"
 ---
 
-![Back in 2016 our unique lifestyle got featured in Business Insider, and how we saved $100,000 a year traveling the world. You'll learn how we did it by the end of this guide.](http://adam-costa.com/wp-content/uploads/2020/02/image-13-700x530.png)Back in 2016 our unique lifestyle got featured in Business Insider. You'll learn how we did it by the end of this chapter.
+![Back in 2016 our unique lifestyle got featured in Business Insider, and how we saved $100,000 a year traveling the world. You'll learn how we did it by the end of this guide.](https://adam-costa.com/wp-content/uploads/2020/02/image-13-700x530.png)Back in 2016 our unique lifestyle got featured in Business Insider. You'll learn how we did it by the end of this chapter.
 
 ## How to live like a king, on a budget for bums
 
-As we learned in the [previous section](http://adam-costa.com/financial-freedom/reduce-expenses/), housing is the number one expense. So let's start there.
+As we learned in the [previous section](https://adam-costa.com/financial-freedom/reduce-expenses/), housing is the number one expense. So let's start there.
 
 In this chapter, we'll review several ways to slash—or even eliminate—your housing costs. 
 
-(Before we begin, however, take note: while these strategies work for most people, they're especially powerful if you [work remotely](http://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/). As you free up your location, you open up more opportunities.)
+(Before we begin, however, take note: while these strategies work for most people, they're especially powerful if you [work remotely](https://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/). As you free up your location, you open up more opportunities.)
 
 ## House-sitting: a simple way to travel the world, live like a local, and stay in beautiful homes—for free
 
@@ -112,7 +112,7 @@ With this approach, you should hear from a few homeowners. If not, don't fret: h
 
 If everything looks good, you'll agree on the dates—and you're off to your first house sit!
 
-In summary, house sitting is a great way to travel the world, live like a local, and save tens of thousands of dollars a year if you go full-time (which is easier if you [work remotely](http://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/)). And remember: at the very least, you can use house sitting to score free vacations around the world!
+In summary, house sitting is a great way to travel the world, live like a local, and save tens of thousands of dollars a year if you go full-time (which is easier if you [work remotely](https://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/)). And remember: at the very least, you can use house sitting to score free vacations around the world!
 
 ## Travel to cool places—and save big
 
@@ -148,13 +148,13 @@ If you currently live in a state that charges high state taxes (I'm looking at y
 
 The savings can be huge. By moving from California to Washington state, our tax savings pay our mortgage; making the house, in a sense, completely free. Which is nice.
 
-There is much more to this strategy, which we'll cover in the [reduce your taxes](http://adam-costa.com/financial-freedom/reduce-expenses/taxes/) section.
+There is much more to this strategy, which we'll cover in the [reduce your taxes](https://adam-costa.com/financial-freedom/reduce-expenses/taxes/) section.
 
 ## For US citizens: move to another country for at least 11 months—and save big on taxes
 
 This one's a *doozy*. When you leave the US for 330 out of 365 days each year you qualify for the *Foreign Earned Income Exclusion*—which allows you to **write off over $100,000 per year in income** (and $200,000 if you're married filing jointly). 
 
-While this is considered a tax savings, it can also more than pay for your housing expenses, while you enjoy the good life and get to experience other cultures. (Note: you can read more about the FEIE in the [tax section](http://adam-costa.com/financial-freedom/reduce-expenses/taxes/).)
+While this is considered a tax savings, it can also more than pay for your housing expenses, while you enjoy the good life and get to experience other cultures. (Note: you can read more about the FEIE in the [tax section](https://adam-costa.com/financial-freedom/reduce-expenses/taxes/).)
 
 ## Home exchange
 

@@ -3,7 +3,7 @@ title: "Quit yer job and travel"
 date: "2018-11-27"
 author: "adamcosta"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=409"
+original_url: "https://adam-costa.com/?page_id=409"
 ---
 
 *Note: this article originally appeared on Business Insider in 2012(!).*

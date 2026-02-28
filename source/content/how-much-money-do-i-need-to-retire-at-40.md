@@ -3,10 +3,10 @@ title: "Chapter 2: \"How much money do I need to retire at 40 (or 50, or 60)?\""
 date: "2018-11-07"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/"
+original_url: "https://adam-costa.com/financial-freedom/strategy/how-much-money-do-i-need-to-retire-at-40/"
 ---
 
-![How much money do I need to retire at 40 (or 60)? This chart shows that you can safely live off 4% of your investment portfolio.](http://adam-costa.com/wp-content/uploads/2020/02/image-17-700x484.png)An overly simplified example of the "4% rule." For the juicy details, keep reading.
+![How much money do I need to retire at 40 (or 60)? This chart shows that you can safely live off 4% of your investment portfolio.](https://adam-costa.com/wp-content/uploads/2020/02/image-17-700x484.png)An overly simplified example of the "4% rule." For the juicy details, keep reading.
 
 ## Looking to retire by 40, 50, or 60? Discover how much money you really need to retire with this simple formula
 
@@ -66,7 +66,7 @@ After backtesting each 30-year period, the researchers concluded the following:
 
 The table below shows the success rate for each 30-year span between 1926–2009. 
 
-[![Success rates by withdrawal rate. A 4% withdrawal rate succeeds 100% of the time over a 30-year period.](http://adam-costa.com/wp-content/uploads/2019/09/Four-Percent-Rule-Success-Rate-700x556.jpg)](http://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/attachment/four-percent-rule-success-rate/)Success rates by withdrawal rate. For example, a 75/25 of stocks/bonds with a 4% withdrawal rate succeeds 100% of the time over a 30-year period. [Source](https://www.onefpa.org/journal/Pages/Portfolio%20Success%20Rates%20Where%20to%20Draw%20the%20Line.aspx).
+[![Success rates by withdrawal rate. A 4% withdrawal rate succeeds 100% of the time over a 30-year period.](https://adam-costa.com/wp-content/uploads/2019/09/Four-Percent-Rule-Success-Rate-700x556.jpg)](https://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/attachment/four-percent-rule-success-rate/)Success rates by withdrawal rate. For example, a 75/25 of stocks/bonds with a 4% withdrawal rate succeeds 100% of the time over a 30-year period. [Source](https://www.onefpa.org/journal/Pages/Portfolio%20Success%20Rates%20Where%20to%20Draw%20the%20Line.aspx).
 
 As you can see in the table, if you invested 75% stocks/25% bonds, you'd enjoy a 100%  success rate by withdrawing 4% of the initial amount for 30 years. In all historical cases, you'd have enough money to retire.
 
@@ -98,7 +98,7 @@ The simplest, easiest way to invest are in these two low-cost index funds:
 
 With those two simple index funds, you are now the proud owner of 3,591 companies (at time of writing) and 8,645 bonds—all of whom are working hard to grow their profits (and yours)! Not bad for about 5 minutes of work. 
 
-We'll cover index funds later in the guides on asset allocation and [investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/). For now, all you need to know is:
+We'll cover index funds later in the guides on asset allocation and [investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/). For now, all you need to know is:
 
 - Stocks give you greater upside, but with increased volatility. 
 - Bonds give you less upside, but are less volatile. 
@@ -109,7 +109,7 @@ Start with a 50/50 mix of stocks and bonds, then add a greater percentage into s
 
 For example, if you're looking to retire at 40, your timeline will (hopefully) be longer than someone who retires at 60. So you'll probably need more money invested in stocks to provide you with the future growth needed to perform for decades to come.
 
-The above example is as simple as it gets. You can stop here, [automate your investments](http://adam-costa.com/financial-freedom/automate-scale-your-investments/automation/), and be in fabulous shape. But if you're like me—a handsome devil who enjoys investing in other asset classes—then check out the [asset allocation section](http://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/).
+The above example is as simple as it gets. You can stop here, [automate your investments](https://adam-costa.com/financial-freedom/automate-scale-your-investments/automation/), and be in fabulous shape. But if you're like me—a handsome devil who enjoys investing in other asset classes—then check out the [asset allocation section](https://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/).
 
 ## Investments to avoid
 
@@ -202,7 +202,7 @@ Yet despite all this turmoil, the 4% rule not only survived, it *thrived*.
 
 Don't believe me? Take a look at the table below:
 
-[![How much money do you need to retire? This chart provides the median end-of-period portfolio value (assuming a $1,000 initial investment). For example, $1,000 invested in 75% stocks / 25% bonds would grow to $5,968 after 30 years. This means your portfolio would be worth almost 6x its initial value—even after pulling 4% from it for 30 years!](http://adam-costa.com/wp-content/uploads/2019/09/Four-Percent-Rule-Median-Balance-700x557.jpg)](http://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/attachment/four-percent-rule-median-balance/)Median end-of-period portfolio value (assuming a $1,000 initial investment). For example, $1,000 invested in 75% stocks / 25% bonds would grow to $5,968 after 30 years. Your portfolio would be worth almost 6x its initial value—even after pulling 4% from it for 30 years! [Source](https://www.onefpa.org/journal/Pages/Portfolio%20Success%20Rates%20Where%20to%20Draw%20the%20Line.aspx).
+[![How much money do you need to retire? This chart provides the median end-of-period portfolio value (assuming a $1,000 initial investment). For example, $1,000 invested in 75% stocks / 25% bonds would grow to $5,968 after 30 years. This means your portfolio would be worth almost 6x its initial value—even after pulling 4% from it for 30 years!](https://adam-costa.com/wp-content/uploads/2019/09/Four-Percent-Rule-Median-Balance-700x557.jpg)](https://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/attachment/four-percent-rule-median-balance/)Median end-of-period portfolio value (assuming a $1,000 initial investment). For example, $1,000 invested in 75% stocks / 25% bonds would grow to $5,968 after 30 years. Your portfolio would be worth almost 6x its initial value—even after pulling 4% from it for 30 years! [Source](https://www.onefpa.org/journal/Pages/Portfolio%20Success%20Rates%20Where%20to%20Draw%20the%20Line.aspx).
 
 Looking at the table above, you'll see that the median amount for a 75/25 stocks/bond portfolio , after 30 years of withdrawals, has not only survived, it is almost *six times higher* than the initial amount. 
 
@@ -216,7 +216,7 @@ You've two options:
 
 1. **Lower your withdrawal rate.** Withdraw 3.5%. Or even 3%. Take a look at the tables again; you'll see that a 3% withdrawal rate is 100% successful. Of course, it will take you longer to reach this number. A 3% withdrawal is equal to 33x your expenses; a 4% withdrawal is only 25x expenses. But if you need that extra sense of security to sleep well at night, well, that's your right.   
 
-2. **Reduce your expenses.** Try house sitting to eliminate your housing expense. Sell your car and ride a bike. Follow the ideas in the [Reduce your expenses](http://adam-costa.com/financial-freedom/reduce-expenses/) section. Remember: going from 4% to 3.5% is the same as cutting your current spending by 12%. If you can make that work, great; if not, keep saving. Or just embrace the 4% rule. :)
+2. **Reduce your expenses.** Try house sitting to eliminate your housing expense. Sell your car and ride a bike. Follow the ideas in the [Reduce your expenses](https://adam-costa.com/financial-freedom/reduce-expenses/) section. Remember: going from 4% to 3.5% is the same as cutting your current spending by 12%. If you can make that work, great; if not, keep saving. Or just embrace the 4% rule. :)
 
 ### "When calculating how much money I need to retire, can I include my home equity in my assets?"
 
@@ -226,7 +226,7 @@ No. You only include your *investable* assets, which include stocks and bonds. W
 
 I get it. If you're just getting started, the path can seem impossibly long. But as you'll see, it's faster than you think. 
 
-Because it's just not about living off of 4%. There are other exciting milestones—which are much easier to reach—waiting for you in the next section: [The different levels of financial freedom](http://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/).
+Because it's just not about living off of 4%. There are other exciting milestones—which are much easier to reach—waiting for you in the next section: [The different levels of financial freedom](https://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/).
 
 ## What next? Calculate how much money you need to retire in 3 easy steps
 
@@ -248,4 +248,4 @@ Therefore, Sally needs to save another $300,000.
 
 The math is simple; the psychology is hard. It's easy to look at a huge number like $300,000 and despair. "I'll never get there! It's just too much!" 
 
-Don't worry. We'll cover this in the [next section](http://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/).
+Don't worry. We'll cover this in the [next section](https://adam-costa.com/financial-freedom/strategy/levels-of-financial-freedom/).

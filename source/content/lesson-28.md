@@ -3,7 +3,7 @@ title: "Lesson 28"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=195"
+original_url: "https://adam-costa.com/?page_id=195"
 ---
 
 In today’s lesson, we’ll discuss the surprisingly simple methods to dramatically improve your follow-through.

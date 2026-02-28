@@ -3,7 +3,7 @@ title: "Lesson 2"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=135"
+original_url: "https://adam-costa.com/?page_id=135"
 ---
 
 In this lesson, we introduce the first module: "Find your purpose." You'll learn about the importance of finding your purpose and hear a cautionary tale about the risks of not finding your purpose.

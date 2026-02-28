@@ -3,10 +3,10 @@ title: "Chapter 2: Pinpoint and prioritize your goals"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/chapter-2-pinpoint-and-prioritize-your-goals/"
+original_url: "https://adam-costa.com/productivity-course/chapter-2-pinpoint-and-prioritize-your-goals/"
 ---
 
-![Your board game of life](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello5.png)You'll build this by the end of this chapter.
+![Your board game of life](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello5.png)You'll build this by the end of this chapter.
 
 ## How to map out your dreams, turn your life into a game, and gain a crystal-clear vision of what you want in life
 
@@ -153,18 +153,18 @@ I hope so—because we’re gonna put them into your personal Board Game of Life
 
 To do this, we’ll use a free online tool called [Trello](https://trello.com).
 
-*****Note: Get the following Trello screenshots, board templates, and more on the [Resources page](http://adam-costa.com/productivity-course/additional-resources/).*********
+*****Note: Get the following Trello screenshots, board templates, and more on the [Resources page](https://adam-costa.com/productivity-course/additional-resources/).*********
 
 We’ll talk about Trello—and how it will help you get 10x results—in subsequent chapters. But for now, we’re gonna use it to create your Board Game of Life.
 
 Here’s what it looks like:
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello1.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello1.png)
 
 Here’s what you need to do next:
 
 - Create a free Trello account (if you don’t have one already).
-- Access the board I’ve created for you from the [Resources](http://adam-costa.com/productivity-course/additional-resources/) page.
+- Access the board I’ve created for you from the [Resources](https://adam-costa.com/productivity-course/additional-resources/) page.
 - In Trello, click the “Show Menu” link in the top right.
 - Select “Copy Board.”
 
@@ -180,7 +180,7 @@ Each column could have between 3–10 cards (Trello’s term, not mine), each re
 
 Here’s what mine looks like:
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello2.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello2.png)
 
 As you can see, you can add images, too. **Do this.** The visual makes it more “real” to you—and therefore, it’ll stick in your subconscious longer.
 
@@ -188,7 +188,7 @@ Now go through each column, and add at least three cards to each column.
 
 Here’s my updated board, with goals and pictures:
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello3.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello3.png)
 
 Boom. Notice anything about the pictures?
 
@@ -237,7 +237,7 @@ For example, in the “*Where do I want to go*” column I listed *Japan*, *Anta
 
 Here’s how I moved my cards around:
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello4.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello4.png)
 
 ## The endgame
 
@@ -248,7 +248,7 @@ OK, two more quick steps and we’re done.
 
 Here’s my final board:
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello5.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifetrello5.png)
 
 As you can see, writing a book earned the top spot, followed by writing a bestselling book.
 

@@ -3,7 +3,7 @@ title: "Lesson 20"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=171"
+original_url: "https://adam-costa.com/?page_id=171"
 ---
 
 In today’s lesson, you’re going to learn about associative triggers and ultradian rhythms.

@@ -3,7 +3,7 @@ title: "Lesson 27"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=196"
+original_url: "https://adam-costa.com/?page_id=196"
 ---
 
 In today’s lesson, we’re going to kick-start module 7 “Follow Through” and discuss how to finish what you start and get high as a kite.

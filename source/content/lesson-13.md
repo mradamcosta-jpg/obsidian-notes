@@ -3,7 +3,7 @@ title: "Lesson 13"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=161"
+original_url: "https://adam-costa.com/?page_id=161"
 ---
 
 In today’s lesson, we’re going to discuss the difference between your master kanban versus a project kanban, show you a quick and easy way to break down large projects using backward design, and wrap up module 3 "Optimize Your Workflow."

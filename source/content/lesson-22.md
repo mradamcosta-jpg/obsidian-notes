@@ -3,7 +3,7 @@ title: "Lesson 22"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=185"
+original_url: "https://adam-costa.com/?page_id=185"
 ---
 
 In today's lesson, you'll discover why distractions are like leashes, why we get distracted in the first place, and the impact distractions have on performance.

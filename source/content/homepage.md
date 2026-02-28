@@ -3,7 +3,7 @@ title: "I create courses to help improve your life"
 date: "2018-11-02"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/"
+original_url: "https://adam-costa.com/"
 ---
 
 Browse the courses below (they're all free). 
@@ -12,7 +12,7 @@ Browse the courses below (they're all free).
 
 Would you like to become more focused, productive, and achieve 10x results in your life and business?
 
-Then I suggest you start with the [free Productivity Course](http://adam-costa.com/productivity-course/). (There are 7 chapters; each is between 2–3,000 words long.)
+Then I suggest you start with the [free Productivity Course](https://adam-costa.com/productivity-course/). (There are 7 chapters; each is between 2–3,000 words long.)
 
 You'll discover how to:
 
@@ -35,7 +35,7 @@ You'll discover how to:
 
 Would you like to become wealthy—truly wealthy—where you have the time, money, and energy to work on projects you love?
 
-Then check out my [free Financial Freedom course](http://adam-costa.com/financial-freedom/). I created this course for my nieces and nephews to ensure they got a solid education in personal finance; you'll probably find it useful, too.
+Then check out my [free Financial Freedom course](https://adam-costa.com/financial-freedom/). I created this course for my nieces and nephews to ensure they got a solid education in personal finance; you'll probably find it useful, too.
 
 **In this course you'll discover how to:**
 

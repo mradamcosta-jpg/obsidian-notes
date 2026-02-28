@@ -3,10 +3,10 @@ title: "Part 2: Reduce your expenses—by living an exciting life"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/reduce-expenses/"
+original_url: "https://adam-costa.com/financial-freedom/reduce-expenses/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2020/02/image-14-700x442.png)A great life is exciting, not expensive. (Source: [Derek Owens](https://unsplash.com/@derekowensheart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
+![](https://adam-costa.com/wp-content/uploads/2020/02/image-14-700x442.png)A great life is exciting, not expensive. (Source: [Derek Owens](https://unsplash.com/@derekowensheart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
 
 ## Forget coupons—use this big-picture view of saving money, that's actually fun
 
@@ -18,11 +18,11 @@ Sure, you'll save a few dollars on coffee, but you'll save more—and reach your
 
 Look at the following chart:
 
-![The four largest expenses are housing, taxes, transportation, and food. ](http://adam-costa.com/wp-content/uploads/2019/10/image-1-700x616.png)The four largest expenses are housing, taxes, transportation, and food.
+![The four largest expenses are housing, taxes, transportation, and food. ](https://adam-costa.com/wp-content/uploads/2019/10/image-1-700x616.png)The four largest expenses are housing, taxes, transportation, and food.
 
-Above, you see the biggest expenses are [housing](http://adam-costa.com/financial-freedom/reduce-expenses/housing/), [taxes](http://adam-costa.com/financial-freedom/reduce-expenses/taxes/), [transportation](http://adam-costa.com/financial-freedom/reduce-expenses/transportation/), and food. These are the "big fish." 
+Above, you see the biggest expenses are [housing](https://adam-costa.com/financial-freedom/reduce-expenses/housing/), [taxes](https://adam-costa.com/financial-freedom/reduce-expenses/taxes/), [transportation](https://adam-costa.com/financial-freedom/reduce-expenses/transportation/), and food. These are the "big fish." 
 
-Start with the largest expense—housing—because it provides the best return. For example, let's say you spend $20,000 a year on housing; if you [reduce your housing expenses](http://adam-costa.com/financial-freedom/reduce-expenses/housing/) by 10%, you'll save $2,000 a year. That's a lot.
+Start with the largest expense—housing—because it provides the best return. For example, let's say you spend $20,000 a year on housing; if you [reduce your housing expenses](https://adam-costa.com/financial-freedom/reduce-expenses/housing/) by 10%, you'll save $2,000 a year. That's a lot.
 
 If, on the other hand, you reduce your spending on food (currently $8,000, according to the chart above) by 10%, you'll only save $800. Not bad by any measure—but a far cry from $2,000.
 
@@ -32,8 +32,8 @@ Now that we've identified the top three categories—housing, taxes, and transpo
 
 We'll focus on the big three:
 
-- [Housing](http://adam-costa.com/financial-freedom/reduce-expenses/housing/)
-- [Taxes](http://adam-costa.com/financial-freedom/reduce-expenses/taxes/)
-- [Transportation](http://adam-costa.com/financial-freedom/reduce-expenses/transportation/)
+- [Housing](https://adam-costa.com/financial-freedom/reduce-expenses/housing/)
+- [Taxes](https://adam-costa.com/financial-freedom/reduce-expenses/taxes/)
+- [Transportation](https://adam-costa.com/financial-freedom/reduce-expenses/transportation/)
 
 Click the links above to learn more.

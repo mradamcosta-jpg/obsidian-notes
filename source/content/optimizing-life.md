@@ -3,7 +3,7 @@ title: "Optimizing life"
 date: "2022-05-17"
 author: "adamcosta"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=4996"
+original_url: "https://adam-costa.com/?page_id=4996"
 ---
 
 Recently I've come to the conclusion that the best-lived life is one with the most time spent in a flow state. The more time people spend in a flow state—where everything else disappears except for the activity at hand—the happier they tend to be.

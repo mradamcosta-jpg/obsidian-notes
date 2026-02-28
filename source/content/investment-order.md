@@ -3,20 +3,20 @@ title: "Chapter 13: Investment order"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/"
+original_url: "https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/"
 ---
 
-![The seven steps to invest your money in. Text versions are further down the page.](http://adam-costa.com/wp-content/uploads/2020/02/image-25.png)
+![The seven steps to invest your money in. Text versions are further down the page.](https://adam-costa.com/wp-content/uploads/2020/02/image-25.png)
 
 ## A seven-step checklist to maximize your returns
 
-Alright, you've [reduced your expenses](http://adam-costa.com/financial-freedom/reduce-expenses/) and [increased your income](http://adam-costa.com/financial-freedom/how-to-increase-your-income/). Now it's time to put your extra cash to work.
+Alright, you've [reduced your expenses](https://adam-costa.com/financial-freedom/reduce-expenses/) and [increased your income](https://adam-costa.com/financial-freedom/how-to-increase-your-income/). Now it's time to put your extra cash to work.
 
 But how?
 
 Keep reading, or click a link below to skip ahead.
 
-(Before you dive in, however, please note: this article is about which *accounts* you should invest in. For more information about what *assets* to buy—and which account to place them in—go to the [Asset Allocation](http://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/) page. It'll be fun, I promise.)
+(Before you dive in, however, please note: this article is about which *accounts* you should invest in. For more information about what *assets* to buy—and which account to place them in—go to the [Asset Allocation](https://adam-costa.com/financial-freedom/automate-scale-your-investments/asset-allocation/) page. It'll be fun, I promise.)
 
 Invest in the following order:
 

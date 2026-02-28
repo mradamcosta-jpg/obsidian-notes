@@ -3,10 +3,10 @@ title: "Chapter 7: Transportation—How to save $70k every 10 years (without wal
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/reduce-expenses/transportation/"
+original_url: "https://adam-costa.com/financial-freedom/reduce-expenses/transportation/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2019/10/Transportation-costs-700x414.png)Top transportation expenses. (Source: Bureau of Transportation Statistics)
+![](https://adam-costa.com/wp-content/uploads/2019/10/Transportation-costs-700x414.png)Top transportation expenses. (Source: Bureau of Transportation Statistics)
 
 ## Reduce your transportation costs with these simple tips
 
@@ -24,7 +24,7 @@ The **second** problem is that, despite being obvious, people still don't follow
 
 Of course, just because something is obvious doesn't make it bad advice. And just because people don't follow that advice, doesn't make it ineffective. 
 
-So, this section will only focus on two transportation costs: cars and planes. I'll keep in brief, and show you how a few simple tweaks can save you $70,000 over ten years (and more if you really dig traveling). It's a quick, easy shortcut to [financial freedom](http://adam-costa.com/financial-freedom/).
+So, this section will only focus on two transportation costs: cars and planes. I'll keep in brief, and show you how a few simple tweaks can save you $70,000 over ten years (and more if you really dig traveling). It's a quick, easy shortcut to [financial freedom](https://adam-costa.com/financial-freedom/).
 
 And no, you don't have to walk.
 
@@ -32,7 +32,7 @@ And no, you don't have to walk.
 
 The simplest answer is to:
 
-- **[Work remotely](http://adam-costa.com/financial-freedom-page/how-to-increase-your-income/work-remotely/)**. By working remotely, you eliminate your daily commute. And if you eliminate your commute, you may be able to...
+- **[Work remotely](https://adam-costa.com/financial-freedom-page/how-to-increase-your-income/work-remotely/)**. By working remotely, you eliminate your daily commute. And if you eliminate your commute, you may be able to...
 - **Get rid of your car** (or share one with your roommate or partner). My wife and I work remotely and have shared a car for the past ten years. If she needs the car I'm happy to...
 - **Walk, run, or ride a bike. **Travel for free, enjoy time outside, and get the benefits of exercise? This is a no-brainer. Of course, if it's freezing outside you could always...
 - **Take a taxi (or Uber, or Lyft, or whatever)**. Or... *gasp!*... the bus. And when wheels won't work...
@@ -42,7 +42,7 @@ It really is that simple. Really. But since the devil's in the details, let's br
 
 According to the Bureau of Transportation Statistics, here's what people in the US spend on transportation:
 
-![](http://adam-costa.com/wp-content/uploads/2019/10/Transportation-costs-700x414.png)Top transportation expenses. (Source: Bureau of Transportation Statistics)
+![](https://adam-costa.com/wp-content/uploads/2019/10/Transportation-costs-700x414.png)Top transportation expenses. (Source: Bureau of Transportation Statistics)
 
 "Vehicle purchases" is self-explanatory. 
 
@@ -80,7 +80,7 @@ Let's review three ways to reduce car expenses: eliminate a car, use the car les
 
 My wife and I've shared a car for ten years. A quick look at the Bureau of Labor Statistics (see below) shows the average person spends $4,001 on a new car, and about $5,000 for fuel and other vehicle expenditures. 
 
-![](http://adam-costa.com/wp-content/uploads/2019/10/Average-transportation-expenses-700x429.png)How much money the average household spends on transportation. 
+![](https://adam-costa.com/wp-content/uploads/2019/10/Average-transportation-expenses-700x429.png)How much money the average household spends on transportation. 
 
 How much have we saved by not buying a second car? Let's do the math. First, we saved $4,000 by NOT buying a car in the first place, plus an additional $5,000 a year for 10 years.
 

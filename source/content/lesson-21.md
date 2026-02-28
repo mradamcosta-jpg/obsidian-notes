@@ -3,7 +3,7 @@ title: "Lesson 21"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=179"
+original_url: "https://adam-costa.com/?page_id=179"
 ---
 
 In today’s lesson, you’ll learn about hitchhiking habits: a simple, proven method to accomplish more.

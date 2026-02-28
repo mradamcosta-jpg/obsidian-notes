@@ -3,7 +3,7 @@ title: "Lesson 1"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=134"
+original_url: "https://adam-costa.com/?page_id=134"
 ---
 
 In this video lesson, you'll get a BIG, FAT welcome to the 10x community! You'll also learn about the course (and what the 7 modules cover) and the course structure. In addition, we'll ask you to tell us about your struggles so we can help you through the course.

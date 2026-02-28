@@ -3,7 +3,7 @@ title: "Lesson 11"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=159"
+original_url: "https://adam-costa.com/?page_id=159"
 ---
 
 In today’s lesson, you’re going to learn the striking difference between capacity and flow (and ensure you optimize for the right one) and set SMART goals.

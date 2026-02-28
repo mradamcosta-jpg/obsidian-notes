@@ -3,10 +3,10 @@ title: "Conclusion: What to do next"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/conclusion-what-to-do-next/"
+original_url: "https://adam-costa.com/productivity-course/conclusion-what-to-do-next/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2020/02/image-8-700x333.png)Where to next?
+![](https://adam-costa.com/wp-content/uploads/2020/02/image-8-700x333.png)Where to next?
 
 ## A quick recap of everything we've covered in this book
 

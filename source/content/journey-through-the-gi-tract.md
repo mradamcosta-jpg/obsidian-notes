@@ -3,18 +3,18 @@ title: "Journey through the GI tract"
 date: "2022-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/nutrition/journey-through-the-gi-tract/"
+original_url: "https://adam-costa.com/nutrition/journey-through-the-gi-tract/"
 ---
 
 —Or, "The Alimentary Adventures of Ham & Swiss on Rye"
 
-**Note:** this chapter is part of a guide on [nutrition](http://adam-costa.com/nutrition/). You can view the whole guide [here](http://adam-costa.com/nutrition/).
+**Note:** this chapter is part of a guide on [nutrition](https://adam-costa.com/nutrition/). You can view the whole guide [here](https://adam-costa.com/nutrition/).
 
 Ham and Swiss on rye is, well, one of the best things ever. 
 
 So we'll use this sandwich to track the digestive system. In this digestive adventure, the sandwich will be our hero.
 
-![](http://adam-costa.com/wp-content/uploads/2022/03/ham-swiss-rye-700x525.jpeg)In this article, we'll track a ham and Swiss on rye sandwich through the digestive tract, with a focus on the key macronutrients: carbohydrate, protein, and fat.
+![](https://adam-costa.com/wp-content/uploads/2022/03/ham-swiss-rye-700x525.jpeg)In this article, we'll track a ham and Swiss on rye sandwich through the digestive tract, with a focus on the key macronutrients: carbohydrate, protein, and fat.
 
 Warning: This post is a work-in-progress. I'll continue to update it weekly, but for now, please excuse the mess.
 

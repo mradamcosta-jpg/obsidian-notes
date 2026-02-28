@@ -3,7 +3,7 @@ title: "Lesson 17"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=168"
+original_url: "https://adam-costa.com/?page_id=168"
 ---
 
 In today’s lesson, you’ll learn the importance of being proactive versus reactive.

@@ -3,7 +3,7 @@ title: "How to improve (almost) anything"
 date: "2019-01-14"
 author: "adamcosta"
 status: "private"
-original_url: "http://adam-costa.com/how-to-improve-almost-anything/"
+original_url: "https://adam-costa.com/how-to-improve-almost-anything/"
 ---
 
 ## **A proven process to improve anything you desire—in business and in life**

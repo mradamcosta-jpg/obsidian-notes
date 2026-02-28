@@ -3,7 +3,7 @@ title: "Lesson 14"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=165"
+original_url: "https://adam-costa.com/?page_id=165"
 ---
 
 In today's lesson, we're going to kick-start module 4 “Maximize Your Willpower”, discover why willpower is overrated, and see why making decisions are more dangerous than you think.

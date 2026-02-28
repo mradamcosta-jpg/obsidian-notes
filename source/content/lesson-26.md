@@ -3,7 +3,7 @@ title: "Lesson 26"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=181"
+original_url: "https://adam-costa.com/?page_id=181"
 ---
 
 In today’s lesson, you’ll learn how to get over procrastination and why you should forgive yourself, but give your partner hell.

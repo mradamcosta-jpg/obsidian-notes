@@ -3,10 +3,10 @@ title: "Chapter 7: How to follow through on EVERYTHING"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/chapter-7-follow-through/"
+original_url: "https://adam-costa.com/productivity-course/chapter-7-follow-through/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifeifthen.png)This simple technique instantly blocks distractions and boosts productivity. Keep reading to find out how.
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifeifthen.png)This simple technique instantly blocks distractions and boosts productivity. Keep reading to find out how.
 
 ## How to finish what you start—by getting high
 
@@ -301,9 +301,9 @@ So, for example:
 
 Print and fill in this nifty “If_____, then I don’t ______.” reminder and hang it somewhere visible.
 
-![](http://adam-costa.com/wp-content/uploads/2018/11/10xlifeifthen.png)
+![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifeifthen.png)
 
-Remember, you can get this resource (and countless others) on the [Resources page](http://adam-costa.com/productivity-course/additional-resources/).
+Remember, you can get this resource (and countless others) on the [Resources page](https://adam-costa.com/productivity-course/additional-resources/).
 
 If you’ve read this section, then you understand the power of if-then planning...
 

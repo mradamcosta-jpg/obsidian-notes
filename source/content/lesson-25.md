@@ -3,7 +3,7 @@ title: "Lesson 25"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=182"
+original_url: "https://adam-costa.com/?page_id=182"
 ---
 
 In today’s lesson, you’ll learn several tools you can use to block distractions (and why we don’t use them), how to say "no", and 8 steps to eradicate procrastination.

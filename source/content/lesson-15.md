@@ -3,7 +3,7 @@ title: "Lesson 15"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=166"
+original_url: "https://adam-costa.com/?page_id=166"
 ---
 
 In today’s lesson, we’ll discuss when—and when not—to rely on your willpower, show you the secret to 10x your willpower, and wrap up module 4 “Maximize Your Willpower."

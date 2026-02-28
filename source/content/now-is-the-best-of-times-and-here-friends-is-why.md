@@ -3,7 +3,7 @@ title: "Now, Friends, Is The Best of Times. Here Is Why."
 date: "2018-11-03"
 author: "adamcosta"
 status: "private"
-original_url: "http://adam-costa.com/financial-freedom/now-is-the-best-of-times-and-here-friends-is-why/"
+original_url: "https://adam-costa.com/financial-freedom/now-is-the-best-of-times-and-here-friends-is-why/"
 ---
 
 > Ring the bells that still can ring

@@ -3,10 +3,10 @@ title: "Introduction: What you’ll get in this book"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/introduction-what-youll-get-in-this-course/"
+original_url: "https://adam-costa.com/productivity-course/introduction-what-youll-get-in-this-course/"
 ---
 
-![](http://adam-costa.com/wp-content/uploads/2020/02/image-4-700x386.png)Ready to start? (Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
+![](https://adam-costa.com/wp-content/uploads/2020/02/image-4-700x386.png)Ready to start? (Photo by [Jukan Tateisi](https://unsplash.com/@tateisimikito?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
 
 ## What this book is about, and why it will change your life
 
@@ -38,7 +38,7 @@ But sadly, **this is how many of us live**: we look for purpose where it’s *ea
 
 Let me ask you a question: Do you know what you *truly* want in life, and where to find it? Or are you—like the drunk—only searching where it’s convenient?
 
-Whichever your answer, **this book will help you**. You’ll understand *what* you want (starting in [Chapter 1](http://adam-costa.com/productivity-course/chapter-1-find-your-purpose/)), and then dive into *how* to get it (starting in [Chapter 3](http://adam-costa.com/productivity-course/chapter-3-optimize-your-workflow/)).
+Whichever your answer, **this book will help you**. You’ll understand *what* you want (starting in [Chapter 1](https://adam-costa.com/productivity-course/chapter-1-find-your-purpose/)), and then dive into *how* to get it (starting in [Chapter 3](https://adam-costa.com/productivity-course/chapter-3-optimize-your-workflow/)).
 
 Because this is a book for people who want to think big and get breakthrough results, we aren’t aiming for small gains; we’re aiming for 10x results.
 

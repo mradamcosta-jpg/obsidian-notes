@@ -3,7 +3,7 @@ title: "You're in! Let the course begin..."
 date: "2023-02-20"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/thank-you-free-course/"
+original_url: "https://adam-costa.com/thank-you-free-course/"
 ---
 
 Your first email is on the way. Over the next 1–2 weeks you'll discover how to fully automate your finances and grow your wealth effortlessly. 

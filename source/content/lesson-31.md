@@ -3,7 +3,7 @@ title: "Lesson 31"
 date: "2022-02-13"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=192"
+original_url: "https://adam-costa.com/?page_id=192"
 ---
 
 In today’s lesson, we’re going to conclude the online course and cover the steps you need to take to live a 10x Life.

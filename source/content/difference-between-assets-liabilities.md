@@ -3,10 +3,10 @@ title: "Chapter 4: Why you should own assets, and access liabilities"
 date: "2018-11-03"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/strategy/difference-between-assets-liabilities/"
+original_url: "https://adam-costa.com/financial-freedom/strategy/difference-between-assets-liabilities/"
 ---
 
-![A table showing the difference between assets and liabilities. You want to own assets and access liabilities.](http://adam-costa.com/wp-content/uploads/2020/02/image-19-700x367.png)A table showing the difference between assets and liabilities. You want to own assets and access liabilities. (We'll cover this concept shortly.)
+![A table showing the difference between assets and liabilities. You want to own assets and access liabilities.](https://adam-costa.com/wp-content/uploads/2020/02/image-19-700x367.png)A table showing the difference between assets and liabilities. You want to own assets and access liabilities. (We'll cover this concept shortly.)
 
 ## With this simple concept, you can live beyond your means—and save more money than ever
 
@@ -22,7 +22,7 @@ So bust open the bubbly, settle in, and pay attention.
 
 Wealthy people buy assets. Poor people buy liabilities. 
 
-As you progress through this guide, focus on buying assets such as index funds and rental properties (we'll cover these in the [Investing](http://adam-costa.com/financial-freedom/automate-scale-your-investments/) section). The more assets you buy, the faster your wealth will grow, and the sooner you'll reach financial freedom. 
+As you progress through this guide, focus on buying assets such as index funds and rental properties (we'll cover these in the [Investing](https://adam-costa.com/financial-freedom/automate-scale-your-investments/) section). The more assets you buy, the faster your wealth will grow, and the sooner you'll reach financial freedom. 
 
 Avoid buying liabilities like an expensive new car or high-priced cable package. The more liabilities you buy, the slower your wealth will grow, which pushes your financial freedom further into the future. Worse still, if you buy more liabilities than assets, you'll sink deeper into debt—the opposite of financial freedom. 
 
@@ -56,7 +56,7 @@ Please don't breeze through this section. Read it, reflect, then read it again. 
 
 The concept is this: **everything in life is either owned or accessed**.
 
-For example, you can *own* a house... or *access* one by renting. Or by [house sitting](http://adam-costa.com/financial-freedom/reduce-expenses/housing/). Or living with your family.
+For example, you can *own* a house... or *access* one by renting. Or by [house sitting](https://adam-costa.com/financial-freedom/reduce-expenses/housing/). Or living with your family.
 
 Similarly, you can *own* a car... or *access* one via Uber, borrowing a friend's car, or taking public transportation.
 
@@ -70,7 +70,7 @@ Similarly, you can *own* a car... or *access* one via Uber, borrowing a friend's
 
 - **Access is environmentally friendly.** If everyone owns a car, we require more land, highways, and parking spaces than if everyone took the bus or an Uber). 
 
-- **Access helps you "live beyond your means". ** For example, I can stay in a multi-million dollar home by house-sitting—a home I'd never be able to afford on my own. (We'll cover house sitting later in the "[reduce your housing expenses](http://adam-costa.com/financial-freedom/reduce-expenses/housing/)" section.)
+- **Access helps you "live beyond your means". ** For example, I can stay in a multi-million dollar home by house-sitting—a home I'd never be able to afford on my own. (We'll cover house sitting later in the "[reduce your housing expenses](https://adam-costa.com/financial-freedom/reduce-expenses/housing/)" section.)
 
 ## Part 3: Tying it all together—Own assets; access liabilities
 
@@ -90,9 +90,9 @@ This powerful concept can be summarized in one snazzy little table. Check it out
 
 There are three ways to own assets: *buy*, *create*, and *inherit*.
 
-**Buy stocks, bonds, and real estate.** Choose which index funds to invest in, then [automate the process](http://adam-costa.com/financial-freedom/automate-scale-your-investments/automation/) so you grow wealthier, completely on autopilot. If you want to get your hands dirty, buy a rental property (though I wouldn't recommend it unless you know what you're doing. (We'll cover all these in the [Investing](http://adam-costa.com/financial-freedom/automate-scale-your-investments/) section.) 
+**Buy stocks, bonds, and real estate.** Choose which index funds to invest in, then [automate the process](https://adam-costa.com/financial-freedom/automate-scale-your-investments/automation/) so you grow wealthier, completely on autopilot. If you want to get your hands dirty, buy a rental property (though I wouldn't recommend it unless you know what you're doing. (We'll cover all these in the [Investing](https://adam-costa.com/financial-freedom/automate-scale-your-investments/) section.) 
 
-[**Create your own assets**](http://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/)**.** Earn royalties on your creative work (books, paintings, music, etc.) or start a new business. Really, anything that generates income without you personally delivering the service is considered an asset. (If you deliver the service yourself and can't outsource it, you haven't created an asset—you've created a job.)
+[**Create your own assets**](https://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/)**.** Earn royalties on your creative work (books, paintings, music, etc.) or start a new business. Really, anything that generates income without you personally delivering the service is considered an asset. (If you deliver the service yourself and can't outsource it, you haven't created an asset—you've created a job.)
 
 **Inherit assets.** This usually involves a loved one dying. Not recommended.
 
@@ -106,7 +106,7 @@ Below are several common liabilities—and how you can access them.
 
 | **Liabilities** | **How to access them (rather than own)** |
 | Home | - Rent rather than buy  
-- Become a [house sitter](http://adam-costa.com/financial-freedom/reduce-expenses/housing/) |
+- Become a [house sitter](https://adam-costa.com/financial-freedom/reduce-expenses/housing/) |
 | Transportation | - Use Uber/Lyft (for quick rides)   
 - Rent a car with ZipCar (or traditional car rentals)   
 - Ride a bike (rent these in cities as needed, or buy/sell one on Craigslist)  
@@ -114,4 +114,4 @@ Below are several common liabilities—and how you can access them.
 | Books/music | - Borrow from your library  
 - Use Spotify/Pandora/Netflix |
 
-Above is just a high-level overview. You'll learn how access liabilities—and save up to tens of thousands of dollars a year—in the [Reduce Expenses](http://adam-costa.com/financial-freedom-page/reduce-expenses/) section, and how to buy assets in the [Increase income](http://adam-costa.com/financial-freedom-page/how-to-increase-your-income/) and [Investing](http://adam-costa.com/financial-freedom-page/part-2-automate-your-investments-and-then-scale-them/) sections.
+Above is just a high-level overview. You'll learn how access liabilities—and save up to tens of thousands of dollars a year—in the [Reduce Expenses](https://adam-costa.com/financial-freedom-page/reduce-expenses/) section, and how to buy assets in the [Increase income](https://adam-costa.com/financial-freedom-page/how-to-increase-your-income/) and [Investing](https://adam-costa.com/financial-freedom-page/part-2-automate-your-investments-and-then-scale-them/) sections.

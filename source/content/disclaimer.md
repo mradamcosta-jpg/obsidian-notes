@@ -3,7 +3,7 @@ title: "Disclaimer"
 date: "2018-12-30"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/disclaimer/"
+original_url: "https://adam-costa.com/disclaimer/"
 ---
 
 This site is for informational and entertainment purposes, and should not be construed as personal investment advice. 

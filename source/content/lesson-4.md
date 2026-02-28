@@ -3,7 +3,7 @@ title: "Lesson 4"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=137"
+original_url: "https://adam-costa.com/?page_id=137"
 ---
 
 In today’s lesson, we’re going to discuss a little secret about purpose and how it ties into your work, hear a story about Adam working as a tour guide and at Google, and wrap up the first module of the 10x Life course (woo-hoo!).

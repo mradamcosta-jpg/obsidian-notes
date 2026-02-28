@@ -3,7 +3,7 @@ title: "Lesson 5"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=138"
+original_url: "https://adam-costa.com/?page_id=138"
 ---
 
 In today’s lesson, we're going to dive into the second module “Map Out Life” and Adam's going to tell you a real story about why you must write down your goals.

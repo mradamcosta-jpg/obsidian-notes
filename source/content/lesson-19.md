@@ -3,7 +3,7 @@ title: "Lesson 19"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=170"
+original_url: "https://adam-costa.com/?page_id=170"
 ---
 
 In today’s lesson, you’ll learn how triggers can build positive, effective routines.

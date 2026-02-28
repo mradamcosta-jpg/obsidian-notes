@@ -3,7 +3,7 @@ title: "Lesson 23"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=184"
+original_url: "https://adam-costa.com/?page_id=184"
 ---
 
 In today’s lesson, we’re going to look at the three types of distractions you face everyday and how to overcome them.

@@ -3,7 +3,7 @@ title: "Lesson 7"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=141"
+original_url: "https://adam-costa.com/?page_id=141"
 ---
 
 In today’s lesson, you'll discover how to really win at the game of life and get an overview of Trello—the tool we use everyday to stay organized and achieve our goals.

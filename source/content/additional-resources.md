@@ -3,7 +3,7 @@ title: "Additional resources"
 date: "2018-11-28"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/additional-resources/"
+original_url: "https://adam-costa.com/productivity-course/additional-resources/"
 ---
 
 The following resources are shared through Google Docs or Trello.

@@ -3,7 +3,7 @@ title: "Privacy"
 date: "2018-10-30"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/privacy/"
+original_url: "https://adam-costa.com/privacy/"
 ---
 
 **Privacy Notice**

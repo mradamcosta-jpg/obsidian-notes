@@ -3,7 +3,7 @@ title: "Media appearances"
 date: "2018-11-27"
 author: "adamcosta"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=421"
+original_url: "https://adam-costa.com/?page_id=421"
 ---
 
 I love this stuff. Click a link below. You can also grab my book [10x Life](https://www.amazon.com/10x-Life-breakthrough-productive-willpower-ebook/dp/B01CKQMS7E).

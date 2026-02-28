@@ -3,10 +3,10 @@ title: "Chapter 6: How to pay less tax—by having more fun"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/reduce-expenses/taxes/"
+original_url: "https://adam-costa.com/financial-freedom/reduce-expenses/taxes/"
 ---
 
-![An image of flight departures. You'll be able to save money on taxes by traveling more.](http://adam-costa.com/wp-content/uploads/2020/02/image-12-700x464.png)Tax planning never looked better. (Source: [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
+![An image of flight departures. You'll be able to save money on taxes by traveling more.](https://adam-costa.com/wp-content/uploads/2020/02/image-12-700x464.png)Tax planning never looked better. (Source: [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
 
 ## Slash your tax bill with these exciting strategies (and a few boring ones)
 
@@ -20,7 +20,7 @@ Because taxes don't *feel* like an expense. Unlike your rent, insurance, or cred
 
 In other words: You paid the bill, but didn't write the check. This makes taxes invisible. (Two exceptions are business owners and the self-employed. Both must pay quarterly estimates on their taxes. For them, writing four checks to the tax-man each year make taxes *very* visible.)
 
-In this section, we'll talk taxes. Specifically, how you can reduce your taxes *now* (during the contribution phase) rather than *later* (during the [withdrawal phase](http://adam-costa.com/financial-freedom/automate-scale-your-investments/withdraw-your-money/), which we'll cover in a later chapter). 
+In this section, we'll talk taxes. Specifically, how you can reduce your taxes *now* (during the contribution phase) rather than *later* (during the [withdrawal phase](https://adam-costa.com/financial-freedom/automate-scale-your-investments/withdraw-your-money/), which we'll cover in a later chapter). 
 
 We'll review some incredibly fun ways to slash your tax bill—and yes, a few boring ones, too.
 
@@ -35,9 +35,9 @@ We'll review some incredibly fun ways to slash your tax bill—and yes, a few bo
 
 ## Travel abroad (and save big) with the Foreign Earned Income Exclusion
 
-As you know, I'm a big fan of [working remotely](http://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/). 
+As you know, I'm a big fan of [working remotely](https://adam-costa.com/financial-freedom/how-to-increase-your-income/work-remotely/). 
 
-In addition to higher pay, the ability to [create assets](http://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/) that generate passive income, and the freedom to live wherever you wish, working remotely gives you the greatest, most exciting exemption of all: the Foreign Earned Income Exclusion.
+In addition to higher pay, the ability to [create assets](https://adam-costa.com/financial-freedom/how-to-increase-your-income/creating-assets/) that generate passive income, and the freedom to live wherever you wish, working remotely gives you the greatest, most exciting exemption of all: the Foreign Earned Income Exclusion.
 
 The *Foreign Earned Income Exclusion* (FEIE) is a legal way to travel the world and reduce your expenses. Here's how: if you're a US resident, spend at least 330 out of any 365 days outside the US—and reduce your taxable income by $100k+ *per person*.  
 
@@ -70,8 +70,8 @@ To sweeten the deal, consider the following:
 
 - You don't need to travel so much. Renting a long-term apartment will further cut costs, and prevent burnout. Check out [Nomad List](https://nomadlist.com/) for inspiration.
 - You can save money just by moving. An apartment in Buenos Aires is cheaper than Boston. Your savings from the FEIE is the cherry on top.
-- If you really want to save big, you can eliminate your housing costs with [house-sitting](http://adam-costa.com/financial-freedom/reduce-expenses/housing/), and your travel costs with frequent flyer miles. (This is how my wife and I did it for two years.)
-- As you [increase your income](http://adam-costa.com/financial-freedom-page/how-to-increase-your-income/), you'll enjoy the tax-breaks even more. In the above example, the couple earned $80,000 a year. Bump that income up to $200,000 a year and this strategy saves $24,000 a year—plenty to subsidize a year of global jet-setting.
+- If you really want to save big, you can eliminate your housing costs with [house-sitting](https://adam-costa.com/financial-freedom/reduce-expenses/housing/), and your travel costs with frequent flyer miles. (This is how my wife and I did it for two years.)
+- As you [increase your income](https://adam-costa.com/financial-freedom-page/how-to-increase-your-income/), you'll enjoy the tax-breaks even more. In the above example, the couple earned $80,000 a year. Bump that income up to $200,000 a year and this strategy saves $24,000 a year—plenty to subsidize a year of global jet-setting.
 
 Now, there are a few things to note about the Foreign Earned Income Exclusion:
 
@@ -113,7 +113,7 @@ Here's a quick example: The average US household income is ~$62,000. A married c
 | **Annual income** | **Tax savings if you move** |
 | $62,000 | $1,500 |
 
-And since state income tax is *progressive*—which means the more money you make, the higher percentage of taxes you'll pay—you will benefit more as you [increase your income](http://adam-costa.com/financial-freedom/how-to-increase-your-income/). 
+And since state income tax is *progressive*—which means the more money you make, the higher percentage of taxes you'll pay—you will benefit more as you [increase your income](https://adam-costa.com/financial-freedom/how-to-increase-your-income/). 
 
 To see how well this benefits high-income earners, let's use the previous example, but double the income. So, now, the California couple earns $124,000. While their income doubled, their tax savings goes from $1,500  all the way to just over $8,000—*more than a four-fold increase*.
 
@@ -125,7 +125,7 @@ The chart below shows how powerful this strategy as you increase your income.
 | $200,000 | $12,000 |
 | $300,000 | $21,000 |
 
-The savings add up quickly. If you were to invest that extra $8,000 a year over ten years, and earned a 5% return (adjusted for inflation), you would have $118,685 at the end of ten years. Which, according to the [4% rule](http://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/), gives you $4,747 a year in passive income for life (118,685*.04=4,747.). All from one move.
+The savings add up quickly. If you were to invest that extra $8,000 a year over ten years, and earned a 5% return (adjusted for inflation), you would have $118,685 at the end of ten years. Which, according to the [4% rule](https://adam-costa.com/financial-freedom/strategy/freedom-aint-free-so-how-much-does-it-cost-4-rule-explained/), gives you $4,747 a year in passive income for life (118,685*.04=4,747.). All from one move.
 
 | **Annual tax savings** | **Total after 10 years** | **Annual passive income** (based on 4% rule) |
 | $1,500 | $22,253 | $890 |
@@ -176,7 +176,7 @@ For obvious reasons, this approach only applies to people who owe state tax. If 
 
 All retirement accounts share a common goal: reduce taxes. Some accounts—such as Traditional IRAs and 410(k) plans—reduce taxes *now*, while others—such as Roth IRAs—reduce taxes *later*. 
 
-Below, we'll look at each type of account, and how each can reduce your taxes. (Please note: the following section summarizes your options at a high-level. We'll cover how much to invest in each, and in what order, in the [section on investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/). If you feel a bit overwhelmed as you go through these: skip it for now, and we'll circle back to it in the investing section.)
+Below, we'll look at each type of account, and how each can reduce your taxes. (Please note: the following section summarizes your options at a high-level. We'll cover how much to invest in each, and in what order, in the [section on investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/). If you feel a bit overwhelmed as you go through these: skip it for now, and we'll circle back to it in the investing section.)
 
 ### 401(k) accounts or 457 or 403(b)
 

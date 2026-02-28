@@ -3,7 +3,7 @@ title: "Lesson 6"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=139"
+original_url: "https://adam-costa.com/?page_id=139"
 ---
 
 In today’s lesson, you’ll discover the science behind goal setting (yay science!) and 10 questions to reveal exactly what you want from life.

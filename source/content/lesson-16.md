@@ -3,7 +3,7 @@ title: "Lesson 16"
 date: "2018-11-05"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=167"
+original_url: "https://adam-costa.com/?page_id=167"
 ---
 
 In today's lesson, you learn how to establish hard edges to your day (and adhere to them, ruthlessly), why you must do your most rewarding and challenging work first, and the importance of planning for tomorrow, today.

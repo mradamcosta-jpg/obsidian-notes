@@ -3,10 +3,10 @@ title: "Chapter 15: How to build wealth on autopilot—in two hours or less"
 date: "2018-11-17"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/automate-scale-your-investments/build-wealth-automatically/"
+original_url: "https://adam-costa.com/financial-freedom/automate-scale-your-investments/build-wealth-automatically/"
 ---
 
-[![An image showing all the accounts used to automate your investments.](http://adam-costa.com/wp-content/uploads/2019/02/image-22-700x397.png)](http://adam-costa.com/wp-content/uploads/2019/02/image-22.png)Here's the process to build wealth automatically. You'll build this by the end of this guide.
+[![An image showing all the accounts used to automate your investments.](https://adam-costa.com/wp-content/uploads/2019/02/image-22-700x397.png)](https://adam-costa.com/wp-content/uploads/2019/02/image-22.png)Here's the process to build wealth automatically. You'll build this by the end of this guide.
 
 ## A step-by-step guide
 
@@ -38,25 +38,25 @@ Let's see how it's done—and get you up and running in an hour (or two).
 
 It all starts with your:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-11.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-11.png)
 
 ... and then you contribute to your 401(k) (if applicable).
 
 ### 401(k)
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-14-700x150.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-14-700x150.png)
 
 How much should you contribute to your 401(k)? There are two answers:
 
 1. The short answer: contribute as much as your employer will match. For example, if your employer will match your contributions up to $5,000 a year, then contribute $5,000 a year—and not a penny more.
 
-2. The long answer: contribute up to your employer match, and maybe more. [Read this guide to investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/) to understand when investing more into your 401(k) makes sense—and when it doesn't.
+2. The long answer: contribute up to your employer match, and maybe more. [Read this guide to investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/) to understand when investing more into your 401(k) makes sense—and when it doesn't.
 
 Now set up direct deposit to your bank account.
 
 ### Bank account(s)
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-16-700x309.png)  
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-16-700x309.png)  
 
 Success. Now your checking account will start fill up with your riches. But you don't want to keep your money there. 
 
@@ -68,7 +68,7 @@ Therefore, set up automatic transfers to your investment account.
 
 ### Investment accounts
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-17-700x499.png)
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-17-700x499.png)
 
 If your bank account is like your favorite bar—in that it's always open—then your investment account is a walled garden. Visiting hours are brief.
 
@@ -80,7 +80,7 @@ Of course, it's probably not just one account. You may have several accounts in 
 
 - Your taxable accounts.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-18-700x555.png)Depending on your situation, you may have just one investment account, or several. The important thing is that you set up the automatic transfer to the brokerage account; you can worry about the number of accounts later.  
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-18-700x555.png)Depending on your situation, you may have just one investment account, or several. The important thing is that you set up the automatic transfer to the brokerage account; you can worry about the number of accounts later.  
 
 **Key point:** by setting up your accounts like the above, you are "paying yourself first."  It's FAR more effective to invest first and live of the remainder, than to spend first and invest the rest. This key point is worth six or seven figures in wealth over a lifetime.
 
@@ -104,7 +104,7 @@ These evil bastards are the most common:
 
 - Stupid subscriptions that should be canceled (e.g. Netflix, TV, Hulu, Amazon, etc.)
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-19-700x400.png)The vertical line separates your assets (good) with your liabilities (bad). The more you can pile onto the left side, the better.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-19-700x400.png)The vertical line separates your assets (good) with your liabilities (bad). The more you can pile onto the left side, the better.
 
 Set all recurring bills to auto-pay from your credit card, then autopay your credit card bill from your bank account. 
 
@@ -118,7 +118,7 @@ Two reasons:
 
  Be aware, though, that credit cards are like friends with benefits: it's all well and good—until somebody gets screwed.
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-20-700x366.png)Pay as many stupid bills through your credit card to get extra cash back and/or frequent flyer miles. Then set your bank account to automatically pay your credit card each month. (Added bonus: since you're paying your credit card off in full every month, you are improving your credit score on autopilot.)  
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-20-700x366.png)Pay as many stupid bills through your credit card to get extra cash back and/or frequent flyer miles. Then set your bank account to automatically pay your credit card each month. (Added bonus: since you're paying your credit card off in full every month, you are improving your credit score on autopilot.)  
 
 Of course, not every monthly expense can be paid through a credit card. Many mortgages, for example, cannot be paid on credit. 
 
@@ -126,7 +126,7 @@ Therefore, pay as many bills as possible, automatically, with your credit card�
 
 See below:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-21-700x198.png)Not every stupid bill can be paid by credit card. For those, set up an automatic bill pay from your checking account. 
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-21-700x198.png)Not every stupid bill can be paid by credit card. For those, set up an automatic bill pay from your checking account. 
 
 A word on reducing your bills: 
 
@@ -144,9 +144,9 @@ For all these expenses, use your credit card as much as possible. There are seve
 
 3. You may be able to write off some expenses—such as dining out, entertainment, or gas for your car—for business purposes. Credit cards make it easy to track these (whereas cash makes it nearly impossible).
 
-[![An image showing all the accounts used to automate your investments.](http://adam-costa.com/wp-content/uploads/2019/02/image-22-700x397.png)](http://adam-costa.com/wp-content/uploads/2019/02/image-22.png)Click the image above to view it full-size. It will open in a separate tab.
+[![An image showing all the accounts used to automate your investments.](https://adam-costa.com/wp-content/uploads/2019/02/image-22-700x397.png)](https://adam-costa.com/wp-content/uploads/2019/02/image-22.png)Click the image above to view it full-size. It will open in a separate tab.
 
-If you're the adventurous type, listen up: Use credit cards to autopay your bills. Then use frequent flyer points to travel. It also goes great with house sitting (which is featured heavily in the "[reduce your housing expenses](http://adam-costa.com/financial-freedom/reduce-expenses/housing/)" article).
+If you're the adventurous type, listen up: Use credit cards to autopay your bills. Then use frequent flyer points to travel. It also goes great with house sitting (which is featured heavily in the "[reduce your housing expenses](https://adam-costa.com/financial-freedom/reduce-expenses/housing/)" article).
 
 ## Putting it all together
 
@@ -158,7 +158,7 @@ The flowchart above covers most situations. Below we cover a few other scenarios
 
 If you have existing debt besides a mortgage, you'll want to set up autopay for them as well.
 
-In general, focus on contributing to your 401(k) first—up to your employer's match—and then hit the debt hard. For an in-depth look, read [this guide to investment order](http://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).
+In general, focus on contributing to your 401(k) first—up to your employer's match—and then hit the debt hard. For an in-depth look, read [this guide to investment order](https://adam-costa.com/financial-freedom/automate-scale-your-investments/investment-order/).
 
 ### Irregular income
 
@@ -174,4 +174,4 @@ If you'd like a separate saving account, simply create a monthly auto-transfer f
 
 For example:
 
-![](http://adam-costa.com/wp-content/uploads/2019/02/image-23-700x339.png)Each month, your checking account automatically puts money into your second savings account, which can be used for a one-time purchase like a wedding, big trip, or down payment on a house.
+![](https://adam-costa.com/wp-content/uploads/2019/02/image-23-700x339.png)Each month, your checking account automatically puts money into your second savings account, which can be used for a one-time purchase like a wedding, big trip, or down payment on a house.

@@ -3,7 +3,7 @@ title: "Chapter 1: Financial freedom in 10 minutes"
 date: "2018-11-03"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/financial-freedom/strategy/ff1-the-exact-roadmap/"
+original_url: "https://adam-costa.com/financial-freedom/strategy/ff1-the-exact-roadmap/"
 ---
 
 ## Why financial freedom is simple, but most people still get it wrong
@@ -30,7 +30,7 @@ Must you follow this advice to the letter? No. Everyone's financial journey is d
 
 What you *must* do, however, is take action. It's simple—so do it. Otherwise, you'll never reach your goal.
 
-I urge you to read the [entire book](http://adam-costa.com/financial-freedom/). It reveals hidden opportunities—and potential landmines—that cannot fit in this summary. As you read through, refer to this section for a high-level summary of the key points. 
+I urge you to read the [entire book](https://adam-costa.com/financial-freedom/). It reveals hidden opportunities—and potential landmines—that cannot fit in this summary. As you read through, refer to this section for a high-level summary of the key points. 
 
 ## How to become financially independent—a high-level summary
 

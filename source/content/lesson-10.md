@@ -3,7 +3,7 @@ title: "Lesson 10"
 date: "2018-11-04"
 author: "cdicey"
 status: "draft"
-original_url: "http://adam-costa.com/?page_id=157"
+original_url: "https://adam-costa.com/?page_id=157"
 ---
 
 In today’s lesson, we're going to kick-start module 3 "Optimize your workflow", introduce kanban (and the four must-use columns to keep your daily tasks organized), and create your own kanban system in Trello.

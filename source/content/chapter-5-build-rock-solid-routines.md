@@ -3,10 +3,10 @@ title: "Chapter 5: Build rock-solid routines"
 date: "2018-11-27"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/productivity-course/chapter-5-build-rock-solid-routines/"
+original_url: "https://adam-costa.com/productivity-course/chapter-5-build-rock-solid-routines/"
 ---
 
-![A sign saying "work harder."](http://adam-costa.com/wp-content/uploads/2020/02/image-6-700x353.png)Building rock-solid routines make hard work feel easy. (Source: Photo by [Jordan Whitfield](https://unsplash.com/@whitfieldjordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
+![A sign saying "work harder."](https://adam-costa.com/wp-content/uploads/2020/02/image-6-700x353.png)Building rock-solid routines make hard work feel easy. (Source: Photo by [Jordan Whitfield](https://unsplash.com/@whitfieldjordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)
 
 ## How to build rock-solid routines and achieve your goals on near-autopilot
 

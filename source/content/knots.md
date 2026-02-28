@@ -3,7 +3,7 @@ title: "Knots"
 date: "2022-04-03"
 author: "adamcosta"
 status: "publish"
-original_url: "http://adam-costa.com/knots/"
+original_url: "https://adam-costa.com/knots/"
 ---
 
 I've gotten into knots lately. Below are the knots I've learned so far. (Most videos are from the excellent [Animated Knots](https://www.animatedknots.com/) website.)
@@ -12,7 +12,7 @@ I've gotten into knots lately. Below are the knots I've learned so far. (Most vi
 
 - **Working (or "bitter") end**: the part active in knot tying. (Fun fact: this is the where the term "to the bitter end" comes from.) 
 - **Standing end**: the part *not* active in knot tying. Opposite of the working end.
-- **Bight**: a length of rope that does not cross itself. For example, the first part of a [sheet bend](http://adam-costa.com/wp-admin/post.php?post=4901&action=edit#sheet-bend). It can also mean the center part of a rope.
+- **Bight**: a length of rope that does not cross itself. For example, the first part of a [sheet bend](https://adam-costa.com/wp-admin/post.php?post=4901&action=edit#sheet-bend). It can also mean the center part of a rope.
 - **Loop knot**: a knot with a fixed loop size. In other words, the loop is not adjustable. For example, the [bowline](#bowline) is a popular loop knot.
 - **Hitch**: a knot that attaches a rope to another object. For example, the [midshipman's hitch](#midshipmans-hitch). A hitch is similar to a loop knot, but with an adjustable loop.
 - **Lashing**: used to secure two or more items together.
