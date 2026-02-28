@@ -1,4 +1,2 @@
-a test note for using claude cowork
-
-read read read hope this works!
+updated 1207 on sat
 
