@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third note.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Third note"
+              "title": "index"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "dc0a7bcdd4a32551",
   "lastOpenFiles": [
-    "Second note.md",
     "Third note.md",
+    "Second note.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "index.md",
