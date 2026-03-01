@@ -6,7 +6,7 @@ status: "publish"
 original_url: "https://adam-costa.com/productivity-course/conclusion-what-to-do-next/"
 ---
 
-![](https://adam-costa.com/wp-content/uploads/2020/02/image-8-700x333.png)Where to next?
+![](images/image-8-700x333.png)Where to next?
 
 ## A quick recap of everything we've covered in this book
 

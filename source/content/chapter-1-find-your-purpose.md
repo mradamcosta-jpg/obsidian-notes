@@ -6,7 +6,7 @@ status: "publish"
 original_url: "https://adam-costa.com/productivity-course/chapter-1-find-your-purpose/"
 ---
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifepurpose.png)Finding your purpose kicks off a virtuous cycle. We'll talk about this more in subsequent chapters.
+![](images/10xlifepurpose.png)Finding your purpose kicks off a virtuous cycle. We'll talk about this more in subsequent chapters.
 
 ## Introducing a fun, easy way to discover your purpose
 
@@ -115,7 +115,7 @@ It’s a simple process, really. First, define your purpose. Second, break your 
 
 Here’s a simple visual:
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/10xlifepurpose.png)
+![](images/10xlifepurpose.png)
 
 It’s important to create goals that align with your purpose.
 

@@ -40,7 +40,7 @@ In this video lesson, you’ll get a BIG, FAT welcome to the 10x community! You�
 
 ## Find Your Purpose
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)
+![](images/lightbulb.png)
 
 In this module, you will discover the power of purpose, 3 studies that reveal the importance of your purpose (and the shocking health hazards if you don’t have a purpose), how to define your purpose (10 questions you must ask yourself now), and how your purpose will help you kick off a virtuous cycle of positive living.
 
@@ -58,7 +58,7 @@ In today’s lesson, we’re going to discuss a little secret about purpose and 
 
 ## Map Out Your Life
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)
+![](images/lightbulb.png)
 
 In this module, you’ll discover the EXACT questions that **reveal your true desires**, a simple process to map out your entire life (including your dreams, goals, and bottlenecks), and a free tool **you can use right away **to keep yourself accountable.
 
@@ -84,7 +84,7 @@ In today’s lesson, you’re going to prioritize your goals in Trello, finalize
 
 ## Optimize Your Workflow
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)In this module you’ll get a simple **step-by-step process** to prioritize your workflow, understand the difference between capacity and flow (and why they’re key to achieving your goals), visualize your work and limit your work-in-progress, define SMART goals to **set you up for success**, and discover why To-Do lists are slowing your down (and what to do instead).
+![](images/lightbulb.png)In this module you’ll get a simple **step-by-step process** to prioritize your workflow, understand the difference between capacity and flow (and why they’re key to achieving your goals), visualize your work and limit your work-in-progress, define SMART goals to **set you up for success**, and discover why To-Do lists are slowing your down (and what to do instead).
 
 #### Lesson 10
 
@@ -104,7 +104,7 @@ In this lesson, we’re going to discuss the difference between your master kanb
 
 ## Maximize Your Willpower
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)In this module you’ll, discover **why willpower is overrated** (and what to do instead), see a psychological study that reveals why making decisions is **more dangerous than you think**, understand when (and when not to) rely on your willpower, and learn **the secret to 10x your willpower**.
+![](images/lightbulb.png)In this module you’ll, discover **why willpower is overrated** (and what to do instead), see a psychological study that reveals why making decisions is **more dangerous than you think**, understand when (and when not to) rely on your willpower, and learn **the secret to 10x your willpower**.
 
 #### Lesson 14
 
@@ -116,7 +116,7 @@ In this lesson, we’ll discuss when—and when not—to rely on your willpower,
 
 ## Build Rock-solid Routines
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)In this module, you’ll learn how **the most productive people on the planet** leverage routines to produce incredible results—often working just a few hours a day.  You’ll also discover simple ways to create daily routines and how to implement them to **achieve maximum results, in the minimum amount of time**.
+![](images/lightbulb.png)In this module, you’ll learn how **the most productive people on the planet** leverage routines to produce incredible results—often working just a few hours a day.  You’ll also discover simple ways to create daily routines and how to implement them to **achieve maximum results, in the minimum amount of time**.
 
 #### Lesson 16
 
@@ -144,7 +144,7 @@ In this lesson, you’ll learn about hitchhiking habits: a simple, proven method
 
 ## Block Distractions
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)This module reveals simple—but often overlooked—things you can do to block distractions. Not only will you accomplish your goals faster than you ever thought possible, you’ll also experience a **sense of relief and Zen-like calm** with your extra head-space.
+![](images/lightbulb.png)This module reveals simple—but often overlooked—things you can do to block distractions. Not only will you accomplish your goals faster than you ever thought possible, you’ll also experience a **sense of relief and Zen-like calm** with your extra head-space.
 
 #### Lesson 22
 
@@ -168,7 +168,7 @@ In this lesson, you’ll learn how to get over procrastination and why you shoul
 
 ## Follow Through
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)In this module, you’ll discover how to follow through and achieve your goals.  You’ll also learn the surprising reason why we don’t follow through, **10 different techniques to instantly strengthen your follow-through** (so you can get more done, today), and how to naturally increase your dopamine levels to help you feel better and skyrocket your follow-through.
+![](images/lightbulb.png)In this module, you’ll discover how to follow through and achieve your goals.  You’ll also learn the surprising reason why we don’t follow through, **10 different techniques to instantly strengthen your follow-through** (so you can get more done, today), and how to naturally increase your dopamine levels to help you feel better and skyrocket your follow-through.
 
 #### Lesson 27
 
@@ -188,7 +188,7 @@ In this lesson, we’ll wrap up the last method to increase your follow through 
 
 ## Conclusion & Next Steps
 
-![](https://adam-costa.com/wp-content/uploads/2018/11/lightbulb.png)In this module, we’ll review everything you’ve learned, and tie it into an easy-to-follow format you can refer to time and time again. Many students find this is the **most life-changing part of the course**, because they apply what they’ve learned, automatically. There’s no more fear, no more procrastination, no more anxiety—just **a clear head, a clear purpose, and a sense of joy knowing you’re working toward your dreams**.
+![](images/lightbulb.png)In this module, we’ll review everything you’ve learned, and tie it into an easy-to-follow format you can refer to time and time again. Many students find this is the **most life-changing part of the course**, because they apply what they’ve learned, automatically. There’s no more fear, no more procrastination, no more anxiety—just **a clear head, a clear purpose, and a sense of joy knowing you’re working toward your dreams**.
 
 #### Lesson 31
 
